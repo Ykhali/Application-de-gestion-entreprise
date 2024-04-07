@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1687370465 source:c:\users\asus\desktop\gestionen\gestion.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"gestionEN.h"
+	<string.h>
+
+1687370481 c:\users\asus\desktop\gestionen\gestionen.h
+
+1687370645 source:c:\users\asus\desktop\gestionen\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gestionEN.h"
+	"gestion.c"
+	<string.h>
+	<conio.h>
+
+1687381859 c:\users\asus\desktop\gestionen\gestion.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"gestionEN.h"
+	<string.h>
+
